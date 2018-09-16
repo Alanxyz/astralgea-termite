@@ -1,2 +1,1 @@
-# astralgea-termite
-Colorscheme for termite
+### Colorscheme for termite

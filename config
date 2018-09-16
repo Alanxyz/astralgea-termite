@@ -1,0 +1,47 @@
+# [options]
+# font = envypn 11
+# mouse_autohide = true
+# allow_bold = true
+# title = termite
+# audible_bell = true
+# dynamic-title = false
+
+[colors]
+
+# special
+foreground      = #fff
+foreground_bold = #fff
+cursor          = #fff
+background      = rgba(0, 0, 0, 0.5)
+
+# black
+color0  = #222222
+color8  = #222222
+
+# red
+color1  = #e242ac
+color9  = #e242ac
+
+# green
+color2  = #33c2c2
+color10 = #33c2c2
+
+# yellow
+color3  = #dfff00
+color11 = #dfff00
+
+# blue
+color4  = #537dd5
+color12 = #537dd5
+
+# magenta
+color5  = #c398fe
+color13 = #c398fe
+
+# cyan
+color6  = #56c7ee
+color14 = #56c7ee
+
+# white
+color7  = #cccccc
+color15 = #cccccc
